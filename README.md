@@ -26,16 +26,6 @@
   </p>
 </div>
 
-### *Databases:*
-<div dir="auto">
-  <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>
-    &nbsp;
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
-    &nbsp;
-  </p>
-</div>
-
 ### *Languages:*
 <div dir="auto">
   <p dir="auto">
@@ -50,6 +40,16 @@
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+  </p>
+</div>
+
+### *Databases:*
+<div dir="auto">
+  <p dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
   </p>
 </div>
