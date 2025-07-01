@@ -58,7 +58,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmathz-dev&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dmathz-dev&theme=default" alt="GitHub Streak" />
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=true)
