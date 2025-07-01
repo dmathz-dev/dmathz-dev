@@ -57,6 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dmathz-dev&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmathz-dev&theme=default" alt="GitHub Streak" />
+</p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=true)
 
 ---
