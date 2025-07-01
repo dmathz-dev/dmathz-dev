@@ -4,10 +4,13 @@
 - Bootstrap | ReactJs | Tailwind | CodeIgniter | Flask | FastAPI | MySQL | PostgreSQL
 
 ## 🛠️ Languages and Tools:
+
 <a href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="40">
 </a>
-&nbsp;&nbsp;
+
+&nbsp;
+
 <a href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="40">
 </a>
