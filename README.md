@@ -76,12 +76,6 @@
 
 ---
 
-## Projects
-
-- 🏠 No projects yet.
-
----
-
 ## 🔥 My Stats:
 
 <p align="left">
@@ -93,5 +87,11 @@
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=true)
+
+---
+
+## Projects
+
+- 🏠 No projects yet.
 
 ---
