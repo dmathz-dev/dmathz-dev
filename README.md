@@ -4,7 +4,7 @@
 
 ## 🛠️ Tools:
 
-### 🧩 Frameworks & Libraries:
+### *Frameworks & Libraries:*
 <div dir="auto">
   <p dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40" style="max-width: 100%;"></a>
@@ -24,7 +24,7 @@
   </p>
 </div>
 
-### 💾 Databases:
+### *Databases:*
 <div dir="auto">
   <p dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>
@@ -34,7 +34,7 @@
   </p>
 </div>
 
-### ♨️ Languages:
+### *Languages:*
 <div dir="auto">
   <p dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" style="max-width: 100%;"></a>
@@ -52,7 +52,7 @@
   </p>
 </div>
 
-### ⚙️ Others:
+### *Others:*
 <div dir="auto">
   <p dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40" style="max-width: 100%;"></a>
