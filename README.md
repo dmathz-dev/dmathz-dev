@@ -15,11 +15,11 @@
     &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40" style="max-width: 100%;"></a>
-    &nbsp;
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="ReactJs" alt="ReactJs" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
   </p>
 </div>
