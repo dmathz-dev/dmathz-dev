@@ -14,5 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="40">
 </a>
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=true)
 
