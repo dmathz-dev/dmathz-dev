@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Tools:
 
 ### Frameworks & Libraries:
 <div dir="auto">
