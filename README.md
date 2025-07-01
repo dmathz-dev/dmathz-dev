@@ -3,5 +3,6 @@
 🚀 Freelance Web Developer specializing in:
 - Bootstrap | ReactJs | Tailwind | CodeIgniter | Flask | FastAPI | MySQL | PostgreSQL
 
-💼 Open for freelance opportunities!  
-📫 Reach me at: [My Email](roginceldemata@gmail.com)  
+### 📊 Most Used Tools & Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_progress=true)
+
