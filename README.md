@@ -6,7 +6,7 @@
 ## 🛠️ Languages and Tools:
 <p dir="auto">
   <a href="https://www.php.net" target="_blank" title="AWS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="VSCode" width="40" height="40" style="max-width: 100%;">
   </a>
   <a href="https://www.php.net" target="_blank" title="PHP">
     <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" style="max-width: 100%;">
