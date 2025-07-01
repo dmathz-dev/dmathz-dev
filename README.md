@@ -3,12 +3,11 @@
 🚀 Freelance Web Developer specializing in:
 - Bootstrap | ReactJs | Tailwind | CodeIgniter | Flask | FastAPI | MySQL | PostgreSQL
 
-## 🚀 Languages and Tools:
-<p align="left">
+## 🛠️ Languages and Tools:
+<p dir="auto">
   <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" style="max-width: 100%;">
   </a>
-  
   <a href="https://laravel.com" target="_blank" title="Laravel">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   </a>
