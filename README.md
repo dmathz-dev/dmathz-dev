@@ -73,6 +73,8 @@
     &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
   </p>
 </div>
 
