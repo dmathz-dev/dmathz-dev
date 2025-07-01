@@ -51,7 +51,7 @@
 
 ---
 
-## 🔥 Languages and Tools:
+## 🔥 My Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dmathz-dev&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
