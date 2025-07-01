@@ -4,28 +4,26 @@
 - Bootstrap | ReactJs | Tailwind | CodeIgniter | Flask | FastAPI | MySQL | PostgreSQL
 
 ## 🚀 Languages and Tools:
-
 <p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <a href="https://www.php.net" target="_blank" title="PHP">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <a href="https://laravel.com" target="_blank" title="Laravel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   </a>
   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
   
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   </a>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=true)
