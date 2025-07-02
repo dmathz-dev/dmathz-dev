@@ -90,7 +90,7 @@ I’m passionate about building useful tools, exploring new technologies, and tu
   <img src="https://streak-stats.demolab.com/?user=dmathz-dev" alt="GitHub Streak" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=false&count_private=true)
 
 ---
 
