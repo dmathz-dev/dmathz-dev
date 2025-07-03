@@ -81,6 +81,30 @@ I’m passionate about building useful tools, exploring new technologies, and tu
   </p>
 </div>
 
+### *Learning:*
+<div dir="auto">
+  <p dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/k6/k6-original.svg" title="K6" alt="K6" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
+  </p>
+</div>
+
 ---
 
 ## 🔥 My Stats:
