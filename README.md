@@ -99,6 +99,6 @@ I’m passionate about building useful tools, exploring new technologies, and tu
 
 ## Projects
 
-- 🏠 No public projects yet.
+- [iSpark](https://github.com/detech-official/ispark-landing)
 
 ---
