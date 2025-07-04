@@ -109,7 +109,6 @@ I’m passionate about building useful tools, exploring new technologies, and tu
 
 ---
 
-<!-- 
 ## 🔥 My Stats:
 
 <p align="left">
@@ -123,7 +122,6 @@ I’m passionate about building useful tools, exploring new technologies, and tu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=false)
 
 --- 
--->
 
 ## Projects
 
