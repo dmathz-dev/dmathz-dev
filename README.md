@@ -102,6 +102,8 @@ I’m passionate about building useful tools, exploring new technologies, and tu
     &nbsp;
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="40" height="40" style="max-width: 100%;"></a>
     &nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40" style="max-width: 100%;"></a>
+    &nbsp;
   </p>
 </div>
 
