@@ -112,14 +112,14 @@ I’m passionate about building useful tools, exploring new technologies, and tu
 ## 🔥 My Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmathz-dev&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whoisdmathz&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=dmathz-dev" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=whoisdmathz" alt="GitHub Streak" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmathz-dev&layout=compact&hide_progress=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdmathz&layout=compact&hide_progress=false)
 
 --- 
 
