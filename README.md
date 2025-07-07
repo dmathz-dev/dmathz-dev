@@ -117,6 +117,7 @@ I’m passionate about building useful tools, exploring new technologies, and tu
   <img src="https://github-readme-stats.vercel.app/api?username=thedmathz&show_icons=true&hide_title=false&count_private=true&theme=default" alt="GitHub Stats" />
 </p>
 
+
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=thedmathz" alt="GitHub Streak" />
 </p>
