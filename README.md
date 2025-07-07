@@ -114,7 +114,7 @@ I’m passionate about building useful tools, exploring new technologies, and tu
 ## 🔥 My Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedmathz&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedmathz&show_icons=true&hide_title=false&count_private=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="left">
