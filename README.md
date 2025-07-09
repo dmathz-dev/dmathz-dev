@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m passionate about building useful tools, exploring new technologies, and turning ideas into code. Feel free to explore my projects, contribute, or connect!
+I’m passionate about building useful tools, exploring new technologies, and turning ideas into code.
 
 ---
 
